@@ -1,6 +1,6 @@
 # Segmented Control
 
-![](https://storage.jumpshare.com/preview/fLXfvRbg7pNCnPBWqId0LiKsY_JTwh0hXF0X-cjtMDSoClePxdmudxDHz1Ab8t6iiGCFE7nw8BdJIsJsfG_BIVNlSmh0egFbdyHzE6LvoMAI4av1wcwKsmUDuTGzHRrg)
+![](https://cdn-pro.dprcdn.net/files/acc_153136/ZFBpkW)
 
 ## Install
 
